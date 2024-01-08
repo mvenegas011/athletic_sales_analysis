@@ -1,2 +1,3 @@
 # athletic_sales_analysis
 Module 5 Challenge
+The challenge consists in analyzing sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. The idea is to determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. At the end, I determined which day and week had the highest sales for women's athletic footwear.
